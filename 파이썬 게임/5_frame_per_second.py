@@ -87,6 +87,3 @@ while running :
 # pygame 종료 
 pygame.quit() 
 
-
-
-
